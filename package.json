@@ -1,7 +1,7 @@
 {
-  "name": "@ckeditor/ckeditor5-build-classic",
-  "version": "34.1.0",
-  "description": "The classic editor build of CKEditor 5 – the best browser-based rich text editor.",
+  "name": "@andyswebkitchen/ckeditor5-text",
+  "version": "1.0",
+  "description": "Custom CKEditor 5 build with superscript and subscript.",
   "keywords": [
     "ckeditor5-build",
     "ckeditor",
@@ -65,14 +65,13 @@
     "node": ">=14.0.0",
     "npm": ">=5.7.1"
   },
-  "author": "CKSource (http://cksource.com/)",
+  "author": "Andy's Webkitchen (https://andys-webkitchen.co.uk)",
   "license": "GPL-2.0-or-later",
-  "homepage": "https://ckeditor.com/ckeditor-5",
-  "bugs": "https://github.com/ckeditor/ckeditor5/issues",
+  "homepage": "https://andys-webkitchen.co.uk",
+  "bugs": "https://github.com/Andys-Web-Kitchen/ckeditor5-text/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ckeditor/ckeditor5.git",
-    "directory": "packages/ckeditor5-build-classic"
+    "url": "https://github.com/Andys-Web-Kitchen/ckeditor5-text"
   },
   "scripts": {
     "build": "webpack --mode production",
